@@ -54,3 +54,4 @@ wp-config.php
 /wp-content/upgrade-temp-backup
 /wp-content/ai1wm-backups
 /wp-content/aiowps_backups
+local-xdebuginfo.php
