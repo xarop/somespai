@@ -34,15 +34,23 @@ wp-config.php
 
 # htaccess
 /.htaccess
+.htaccess
+/.vscode
+
 
 # All plugins
 #
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
-#/wp-content/plugins
+/wp-content/plugins
 
 # All themes
 #
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+/wp-content/cache
+/wp-content/upgrade
+/wp-content/upgrade-temp-backup
+/wp-content/ai1wm-backups
+/wp-content/aiowps_backups
